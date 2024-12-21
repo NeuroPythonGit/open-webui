@@ -8,6 +8,9 @@
 ### Miniconda3-latest-Windows-x86_64.exe
 Установщик Miniconda3 для Windows x86_64 - это инструмент для создания изолированной среды Python. 
 
+Скачать можно по ссылке:
+https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+
 ## Установка и настройка
 
 1. Установите Miniconda3:
